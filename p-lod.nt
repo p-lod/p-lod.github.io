@@ -748,8 +748,15 @@
 <http://digitalhumanities.umass.edu/p-lod/entities/89> <http://www.w3.org/2000/01/rdf-schema#label> "P-LOD Entity 89" .
 <http://digitalhumanities.umass.edu/p-lod/entities/89> <http://www.w3.org/2002/07/owl#sameAs> <http://digitalhumanities.umass.edu/p-lod/entities/r5-i7> .
 <http://purl.org/dc/terms/isPartOf> <http://www.w3.org/2000/01/rdf-schema#label> "Is part of" .
+<http://www.w3.org/2002/07/owl#Class> <http://www.w3.org/2000/01/rdf-schema#label> "Category/class of entity" .
+<http://www.w3.org/2002/07/owl#DatatypeProperty> <http://www.w3.org/2000/01/rdf-schema#label> "Data Property" .
+<http://www.w3.org/2002/07/owl#ObjectProperty> <http://www.w3.org/2000/01/rdf-schema#label> "Object Property" .
 <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2000/01/rdf-schema#label> "Same as" .
 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#label> "Type" .
+<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#label> "Comment or description" .
+<http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2000/01/rdf-schema#label> "RDF Domain" .
+<http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#label> "RDF Range" .
+<http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2000/01/rdf-schema#label> "Subclass of" .
 <http://digitalhumanities.umass.edu/p-lod/vocabulary/entity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://digitalhumanities.umass.edu/p-lod/vocabulary/entity> <http://www.w3.org/2000/01/rdf-schema#label> "P-LOD Entity" .
 <http://digitalhumanities.umass.edu/p-lod/vocabulary/numbered-entity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
